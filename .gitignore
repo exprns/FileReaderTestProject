@@ -1,0 +1,7 @@
+src/FileReaderTestProject/.vscode
+src/FileReaderTestProject/bin/
+src/FileReaderTestProject/obj
+
+tests/FileReaderTestProject.Tests/.vscode
+tests/FileReaderTestProject.Tests/bin/
+tests/FileReaderTestProject.Tests/obj
